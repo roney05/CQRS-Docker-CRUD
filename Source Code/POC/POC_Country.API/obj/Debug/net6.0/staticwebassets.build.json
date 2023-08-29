@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kBTDHbHOUvvwq+4pVfn20w33is36cy9c10V+EZxayuU=",
+  "Source": "POC_Country.API",
+  "BasePath": "_content/POC_Country.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
